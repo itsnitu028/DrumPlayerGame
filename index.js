@@ -1,24 +1,4 @@
-// document.querySelector("btn").addEventListener("click",handleclick);
-// function handleclick()    
-// {
-//     alert("i got clicked");
-// }
-// let len= document.querySelectorAll(".drum").length;//.drum instead of btn coz
-//if we add on btn somewherelese..
-//we wont get only the length of drum part..+the add on btn parameters
-// for(let i=0;i<len;i++)
-// {
-// document.querySelectorAll(".drum")[i].addEventListener("click",function(){ //anonymous function
-//     this.style.color="white";}
-//     );
-// }
-//we have written querySelectorAll instead of
-//querySelector because its syntax ..if we want to target any i
-//if we write only querySelector..then it will target only the first occuring ones
-/************************************** */
-//var audio = new Audio('audio_file.mp3');
-// audio.play();
-//console.log(this);   console.log(this.innerHTML);
+
 let len=document.querySelectorAll(".drum").length;
 //if button is clicked via mouse
 for(let i=0;i<len;i++)
