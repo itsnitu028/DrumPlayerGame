@@ -23,3 +23,6 @@ If you'd like to contribute to this project, feel free to fork the repository, m
 
 
 Enjoy drumming to the beat with Drum Player Game! If you have any questions or suggestions, please feel free to open an issue or contact us directly.
+
+
+<img width="905" alt="image" src="https://github.com/itsnitu028/DrumPlayerGame/assets/128230467/5333555b-8b49-4c9a-847c-961458ac9896">
